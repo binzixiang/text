@@ -11,7 +11,7 @@ int main()
 
 	scanf("%d", &a);
 
-	int arr[100000] = { 0 };
+	int arr[] = { 0 };
 
 	printf("ÇëÄúÊäÈëÊı×é\n");
 
