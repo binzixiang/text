@@ -5,15 +5,15 @@ int main()
 {
 	while (true)
 	{
-	printf("Çë¸ø³öËùÒªÇóµÄÊı×é\n");
+	printf("è¯·ç»™å‡ºæ‰€è¦æ±‚çš„æ•°ç»„\n");
 
 	int a = 0;
 
 	scanf("%d", &a);
 
-	int arr[] = { 0 };
+	int arr[10000] = { 0 };
 
-	printf("ÇëÄúÊäÈëÊı×é\n");
+	printf("è¯·æ‚¨è¾“å…¥æ•°ç»„\n");
 
 	int i = 0;
 
@@ -21,7 +21,7 @@ int main()
 	{
 		scanf("%d", &arr[i]);
 	}
-	printf("ÄúÊäÈëµÄÊı×éÎª:\n");
+	printf("æ‚¨è¾“å…¥çš„æ•°ç»„ä¸º:\n");
 
 	for (i = 0; i < a ; i++)
 	{
@@ -36,7 +36,7 @@ int main()
 			max = arr[i];
 		}
 	}
-	printf("×î´óÖµÎª:%d\n", max);
+	printf("æœ€å¤§å€¼ä¸º:%d\n", max);
 
 	}
 	return 0;
