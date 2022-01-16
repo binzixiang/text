@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2aafb0f-af65-4763-86e4-43060f8fed41": {
+      "ProjectGuid": "a2aafb0f-af65-4763-86e4-43060f8fed41",
+      "DisplayName": "text1.16(使用创建函数的计算器)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
