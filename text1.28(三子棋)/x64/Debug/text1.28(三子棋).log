@@ -1,0 +1,5 @@
+﻿  game.cpp
+  main.cpp
+  正在生成代码...
+D:\我的文件\VS\git\text\text1.28(三子棋)\game.cpp(154): warning C4715: “iswin”: 不是所有的控件路径都返回值
+  text1.28(三子棋).vcxproj -> D:\我的文件\VS\git\text\text1.28(三子棋)\x64\Debug\text1.28(三子棋).exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7242e17a-4cbd-4c57-9ba0-0d85b824567c": {
+      "ProjectGuid": "7242e17a-4cbd-4c57-9ba0-0d85b824567c",
+      "DisplayName": "text1.28(三子棋)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
